@@ -1,0 +1,6 @@
+  - name: lol
+    id: 1
+    full_name: test
+    email: example@mail.com
+    password_hash: 
+    public_key:
